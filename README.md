@@ -24,29 +24,25 @@ We welcome contributions from everyone! Follow these steps to get started:
 1. **Fork the Repository**
 2. **Clone Your Fork**
    ```sh
-   git clone https://github.com/your-username/horizonx-devs.git
+   [git clone https://github.com/your-username/horizonx-devs.git](https://github.com/HorizonXNGP/LandingPageHorizonX.git)
    ```
 3. **Navigate to the Project Folder**
    ```sh
-   cd horizonx-devs
+   cd LandingPageHorizonX
    ```
-4. **Install Dependencies** (if applicable)
-   ```sh
-   npm install
-   ```
-5. **Create a Feature Branch**
+4. **Create a Feature Branch**
    ```sh
    git checkout -b feature-branch
    ```
-6. **Make Your Changes and Commit**
+5. **Make Your Changes and Commit**
    ```sh
    git commit -m "Added a new feature"
    ```
-7. **Push Your Branch to GitHub**
+6. **Push Your Branch to GitHub**
    ```sh
    git push origin feature-branch
    ```
-8. **Create a Pull Request**
+7. **Create a Pull Request**
 
 For detailed contributing guidelines, check out [CONTRIBUTING.md](CONTRIBUTING.md).
 
