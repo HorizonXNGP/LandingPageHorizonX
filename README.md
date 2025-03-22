@@ -24,7 +24,7 @@ We welcome contributions from everyone! Follow these steps to get started:
 1. **Fork the Repository**
 2. **Clone Your Fork**
    ```sh
-   [git clone https://github.com/your-username/horizonx-devs.git](https://github.com/HorizonXNGP/LandingPageHorizonX.git)
+   https://github.com/HorizonXNGP/LandingPageHorizonX.git
    ```
 3. **Navigate to the Project Folder**
    ```sh
